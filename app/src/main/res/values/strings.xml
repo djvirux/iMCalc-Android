@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">iMCalc</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="subtract_weight">Subtract weight</string>
+    <string name="add_weight">Add weight</string>
+    <string name="kg">Kg</string>
+    <string name="age">Age</string>
+    <string name="result">Result</string>
+    <string name="error">Error</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="morbidly_obese">Morbidly obese</string>
+    <string name="underweight_description">Your body weight is below the healthy range for your height and age. It may indicate inadequate nutrition or other issues. Consider gaining weight for better health.</string>
+    <string name="normal_description">Your weight falls within the recommended healthy range for your height and age. Maintain your weight for optimal health!</string>
+    <string name="overweight_description">You have excess body weight that falls above the healthy range for your height and age, which can increase your risk of health problems.</string>
+    <string name="obese_description">You are in a condition where excess body fat accumulation can negatively impact your health. It can significantly increase your risk of chronic diseases.</string>
+    <string name="morbidly_obese_description">You have a severe degree of obesity that poses a significant health risk. It may require medical intervention and drastic lifestyle changes to address.</string>
+
+</resources>

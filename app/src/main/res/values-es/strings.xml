@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iMCalc</string>
+    <string name="female">Mujer</string>
+    <string name="male">Hombre</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="subtract_weight">Restar peso</string>
+    <string name="add_weight">Sumar peso</string>
+    <string name="kg">Kg</string>
+    <string name="age">Edad</string>
+    <string name="result">Resultado</string>
+    <string name="error">Error</string>
+    <string name="underweight">Peso bajo</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="obese">Obeso</string>
+    <string name="morbidly_obese">Obesidad Morbida</string>
+    <string name="underweight_description">Su peso corporal está por debajo del rango saludable para su altura y edad. Puede indicar una nutrición inadecuada u otros problemas. Considere aumentar de peso para tener una mejor salud.</string>
+    <string name="normal_description">Su peso se encuentra dentro del rango saludable recomendado para su altura y edad. ¡Mantenga su peso para una salud óptima!</string>
+    <string name="overweight_description">Tiene un exceso de peso corporal que está por encima del rango saludable para su altura y edad, lo que puede aumentar su riesgo de sufrir problemas de salud.</string>
+    <string name="obese_description">Se encuentra en una condición en la que la acumulación excesiva de grasa corporal puede afectar negativamente su salud. Puede aumentar significativamente su riesgo de enfermedades crónicas.</string>
+    <string name="morbidly_obese_description">Tiene un grado severo de obesidad que representa un riesgo importante para la salud. Puede requerir intervención médica y cambios drásticos en el estilo de vida para abordarlo.</string>
+</resources>
