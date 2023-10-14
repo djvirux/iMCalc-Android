@@ -25,7 +25,7 @@ En este proyecto he realizado una calculadora del índice de masa corporal(IMC).
 ## Requisitos
 * [Android Studio](https://developer.android.com/studio) 17.0.6
 * Kotlin 1.4.3
-* Android 26 o superior
+* Android 24 o superior
 
 **¡GRACIAS!**
 
